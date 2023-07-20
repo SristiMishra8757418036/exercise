@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 mint ice cream
 pizza
 orange
+=======
+kky
+>>>>>>> movie
